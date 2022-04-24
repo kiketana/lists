@@ -1,0 +1,10 @@
+ModIDS = {
+    [2267385097] = true, -- j
+    [2568854753] = true, -- m
+    [421042392] = true, -- mg
+    [1592279492] = true, -- mg2
+    
+   
+}
+
+return ModIDS
